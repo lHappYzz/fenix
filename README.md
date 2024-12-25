@@ -1,5 +1,5 @@
 # Installation
-`git clone https://github.com/lHappYzz/crmoz.git <project-dir>`
+`git clone https://github.com/lHappYzz/fenix.git <project-dir>`
 
 `cd <project-dir>`
 
